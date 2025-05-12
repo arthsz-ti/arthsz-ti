@@ -72,6 +72,12 @@ Hello! I'm **Arthur Saraiva de Souza**, 19 years old.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthsz-ti&theme=radical&locale=pt-br&border_radius=10&border_color=30363D"/>
 </div>
 
-![snake gif](https://github.com/arthsz-ti/arthsz-t/blob/output/github-contribution-grid-snake.svg)
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/arthsz-ti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/arthsz-ti/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/output/github-contribution-grid-snake.svg">
+</picture>
 
 
