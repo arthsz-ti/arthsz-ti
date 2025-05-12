@@ -71,3 +71,7 @@ Hello! I'm **Arthur Saraiva de Souza**, 19 years old.
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthsz-ti&theme=radical&locale=pt-br&border_radius=10&border_color=30363D"/>
 </div>
+
+![snake gif](https://github.com/arthsz-ti/arthsz-t/blob/output/github-contribution-grid-snake.svg)
+
+
