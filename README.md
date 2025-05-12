@@ -80,4 +80,3 @@ Hello! I'm **Arthur Saraiva de Souza**, 19 years old.
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/output/github-contribution-grid-snake.svg">
 </picture>
 
-
