@@ -7,12 +7,13 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/output/github-contribution-grid-snake.svg">
 </picture>
 
-# Arthur Saraiva 👽
-
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" width="200">
 </p>
+
+# Arthur Saraiva 👽
+
 
 **`💻 IT Intern | Computer Science`**
 
