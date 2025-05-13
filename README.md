@@ -1,3 +1,12 @@
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/output/github-contribution-grid-snake.svg">
+</picture>
+
 # Arthur Saraiva 👽
 **`💻 IT Intern | Computer Science`**
 
@@ -59,6 +68,13 @@ Hello! I'm **Arthur Saraiva de Souza**, 19 years old.
 
 ---
 
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+
+
 ## 📈 GitHub Statistics
 
 <div align="center">
@@ -68,15 +84,6 @@ Hello! I'm **Arthur Saraiva de Souza**, 19 years old.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthsz-ti&theme=midnight-purple&layout=compact&custom_title=Most%20Used%20Technologies&langs_count=6&hide=php,jupyter%20notebook&locale=en&border_radius=10&border_color=30363D"/>
   </div>
   
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthsz-ti&theme=midnight-purple&locale=pt-br&border_radius=10&border_color=30363D"/>
-</div>
 
-#
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/output/github-contribution-grid-snake.svg">
-</picture>
 
