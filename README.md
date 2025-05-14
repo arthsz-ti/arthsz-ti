@@ -10,8 +10,10 @@
 <div style="width: 100%;">
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <h1>Arthur Saraiva 👽</h1>
-    <img src="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/refs/heads/main/gojo-jujutsu-kaisen.gif" alt="GIF" width="255" height="150" align="right">
+    <img src="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/refs/heads/main/gojo-jujutsu-kaisen.gif" alt="GIF" height="150" align="right">
     
+<!-- <img src="https://media.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" align="right" width="255"  height="150" /> -->
+<!-- <img src="https://github.com/FelipeZorzi-git/FelipeZorzi-git/blob/main/ChatGPT%20Image%2014%20de%20mai.%20de%202025,%2011_35_27.png?raw=true" width="150" align="right"/> -->
   </div>
   
   **`💻 IT Intern | Computer Science`**
