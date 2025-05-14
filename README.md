@@ -11,7 +11,7 @@
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <h1>Arthur Saraiva 👽</h1>
 
-<img src="https://github.com/arthsz-ti/arthsz-ti/blob/main/GIF.gif?raw=true" alt="GIF" height="160" align="right"> 
+<img src="https://github.com/arthsz-ti/arthsz-ti/blob/main/GIF.gif?raw=true" alt="GIF" height="160"  width="200" align="right"> 
 
 <!-- <img src="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/refs/heads/main/gojo-jujutsu-kaisen.gif" alt="GIF" height="150" align="right"> -->
 <!-- <img src="https://media.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" align="right" width="255"  height="150" /> -->
