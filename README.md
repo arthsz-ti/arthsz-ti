@@ -10,8 +10,7 @@
 <div style="width: 100%;">
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <h1>Arthur Saraiva 👽</h1>
-    <img src="https://github.com/arthsz-ti/arthsz-ti/blob/main/gojo-jujutsu-kaisen.gif?raw=true" alt="GIF" width="255" height="150" align="right">
-    <img src="https://media.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" align="right" width="255"  height="150" />
+    <img src="https://raw.githubusercontent.com/arthsz-ti/arthsz-ti/refs/heads/main/gojo-jujutsu-kaisen.gif" alt="GIF" width="255" height="150" align="right">
     
   </div>
   
