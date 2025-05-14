@@ -11,6 +11,8 @@
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <h1>Arthur Saraiva 👽</h1>
     <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="GIF" width="255" align="right">
+<img src="https://media.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" align="right" width="255"  height="150" />
+    
   </div>
   
   **`💻 IT Intern | Computer Science`**
