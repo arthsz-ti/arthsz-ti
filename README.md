@@ -19,7 +19,7 @@
   
   **`💻 IT Intern | Computer Science`**
   
-  <p>Hello! I'm <strong>Arthur Saraiva de Souza</strong>, 19 years old.<br>
+  <p>Hello! I'm <strong>Arthur Saraiva de Souza</strong>, 20 years old.<br>
   🎓 Technical degree in Administration from ETEC Vasco Antônio Venchiarutti<br>
   📚 Currently studying Computer Science at UniAnchieta</p>
 </div>
